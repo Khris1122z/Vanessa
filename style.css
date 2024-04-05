@@ -10,6 +10,9 @@
   --dark-color: #000;
 }
 
+.p{
+font-size: 1000px;
+}
 body {
   display: flex;
   align-items: flex-end;
